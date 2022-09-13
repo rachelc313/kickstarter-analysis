@@ -10,13 +10,15 @@
 
 ### Analysis of Outcomes Based on Launch Date
 
-![Theater_Outcomes_vs_Launch](../Desktop/Classwork/Crowdfunding%20Analysis/Resources/Theater_Outcomes_vs_Launch.png)
+![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/111570965/189960143-dc0c1310-2c21-4d9d-8e9f-4d89166578b4.png)
+
 
 The most successful kickstarter campaigns were launched in the Spring through Summer. The graph shows the highest spike in May with then slowly decreases to August which matches the amount successful in April.
 
 ### Analysis of Outcomes Based on Goals
 
-![Outcomes_vs_Goals](../Desktop/Classwork/Crowdfunding%20Analysis/Resources/Outcomes_vs_Goals.png)
+![Outcomes_vs_Goals](https://user-images.githubusercontent.com/111570965/189960170-0de625db-a61f-47af-baa0-39a1da27f0a2.png)
+
 
 The most successful kickstarter campaign goals were under $5,000 and between $35,000 and $45,000. There is a severe spike in both directions when increasing over $45,000.
 
